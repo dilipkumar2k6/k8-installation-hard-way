@@ -1,3 +1,5 @@
+# Reference
+https://github.com/mmumshad/kubernetes-the-hard-way
 # Ask
 ![](assets/ask.png)
 # Hosting production application
